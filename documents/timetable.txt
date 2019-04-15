@@ -1,0 +1,16 @@
+00.00 - 04.00 hrs:	Writing the Vector3 class, the dot product and cross product, the Camera class and the .obj file interpreter.
+04.00 - 06.00 hrs:	Putting together the drawing algorithms that convert vertices into x,y coordinates using the dot product and draws polygons between the vertices.
+06.00 - 08.00 hrs:	Implementing GUI: A checkbox for X-ray mode and a file dialog that allows the user to pick which file to edit.
+08.00 - 10.00 hrs:	Writing the project proposal and competitive analysis.
+10.00 - 11.00 hrs:	Drawing the storyboard and improving comptetitive analysis.
+11.00 - 13.00 hrs:	Fixing bugs with file dialog. Making it so the app doesn't crash if the user doesn't select a file. Also fixed bug where changing files would distort vertices and give index errors.
+13.00 - 15.30 hrs:	Changing the way that vertices are stored. Instead of storing the values of each vertex within every face list, now I store all vertices in a seperate list and make it so the face lists contain the indices of the appropriate vertices.
+15.30 - 17.00 hrs:	Implementing a grid checkbox that makes it so a 20x20 grid is displayed when it is checked. The grid serves as a reference point to any modifications the user might plan to do.
+17.00 - 17.30 hrs:	Defining getters and setters for classes according to style guidelines. :(
+17.30 - 18.30 hrs:	Fixing bugs that followed the vertex storage change. Adjusting the camera when a .obj is loaded so that the camera is positioned to cover most of the 3D object. 
+18.30 - 19.00 hrs:	Started implementing the vertex selection system. Every timerFired after the mouse has moved check to see if there is a vertex within 6 pixels of the mouse. A red square is displayed on the vertex if there is one.
+19.00 - 22.00 hrs:	Implemented the 'Save File' feature. The program now goes through every vertex in the existing file and replaces them with the vertices that the user has edited and saves it all into a new file.
+22.00 - 24.00 hrs:	Fixed errors and issues with the 'Save File' feature. Now the user can't save file without opening one and canceling the save file dialog doesn't give an error. Also added a scroll wheel bind to the vertex coordinate entries that allows the user to modify the vertex by scrolling on the entry boxes
+24.00 - 28.00 hrs:	Finding example files for demonstration purposes and creating some of my own. Recording and editing explanation video.
+28.00 - 29.00 hrs:	Finishing up project documents. Writing the readme file. Adding comments and final touches to my code.
+29.00 - 30.00 hrs:	Contemplating love...
