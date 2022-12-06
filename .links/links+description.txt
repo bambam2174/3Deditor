@@ -1,0 +1,32 @@
+# Animation MVC barebones from course notes:
+#    https://pd43.github.io/notes/code/events-example0.py
+      ——————————————————————————————————————————        
+# Vector rotation algorithms from stackoverflow:
+#    https://stackoverflow.com/questions/14607640/rotating-a-vector-in-3d-space
+      ——————————————————————————————————————————        
+# Tkinter open file dialog from Youtube video and comments:
+#    https://www.youtube.com/watch?v=iUmqLGUktek
+      ——————————————————————————————————————————        
+# Tkinter save file dialog from Stack Overflow:
+#    https://stackoverflow.com/questions/19476232/save-file-dialog-in-tkinter
+      ——————————————————————————————————————————        
+# Tkinter additional UI elements form tutorialspoint:
+#    https://www.tutorialspoint.com/python/python_gui_programming.htm
+      ——————————————————————————————————————————        
+# rotation algorithms from stack overflow
+#  —> https://stackoverflow.com/questions/14607640/rotating-a-vector-in-3d-space
+      ——————————————————————————————————————————        
+# Source: File dialog tutorial:
+#  —> https://www.youtube.com/watch?v=iUmqLGUktek
+      ——————————————————————————————————————————        
+# Source: Stack Overflow:
+#  —> https://stackoverflow.com/questions/19476232/save-file-dialog-in-tkinter
+      ——————————————————————————————————————————        
+# Source: Additional UI element information from
+#  —> https://www.tutorialspoint.com/python/python_gui_programming.htm
+      ——————————————————————————————————————————        
+# Animation barebones and run() function from course notes:
+#  —> https://pd43.github.io/notes/code/events-example0.py
+      ——————————————————————————————————————————        
+# new binding events from:
+#  —> https://stackoverflow.com/questions/32289175/list-of-all-tkinter-events
